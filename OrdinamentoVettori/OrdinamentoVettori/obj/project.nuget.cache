@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qmwevD46oNFl333iKlOA2D8LJ7zudGQ/BrflNMGRqOyEKZ9YXt84yINc/vEKMRK6pUxWPyhPGvSavLzrgYKuAA==",
+  "dgSpecHash": "BeG9mFQoupuxV6uTW9i5En73E9oG42n7zAsB03Oq52uMBOloWm8F/NxjUOp69DMLsVk0NrjHwWHyGRgOVJg5lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prof.lucchi\\Documents\\ProgettoOrdina\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
+  "projectFilePath": "C:\\Users\\enrico.ancarani.ITT\\Desktop\\OrdianmentoLucchi\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori\\OrdinamentoVettori.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\prof.lucchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\enrico.ancarani.ITT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
   ],
   "logs": []
 }

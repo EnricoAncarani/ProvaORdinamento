@@ -20,6 +20,7 @@ namespace OrdinamentoVettori
         }
 
         //Metodeo per l'ordinamento
+        //commento per prova
         static void ordina (int[] vettore)
         {
             Array.Sort(vettore);
